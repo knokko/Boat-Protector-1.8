@@ -1,0 +1,16 @@
+[
+{
+  "modid": "boat protector",
+  "name": "boat protector",
+  "description": "A mod that prevents boats from being destroyed when they hit something.",
+  "version": "1.0",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["knokko"],
+  "credits": "Minecraft forge and knokko.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
